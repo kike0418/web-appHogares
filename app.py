@@ -7,8 +7,6 @@ urls = ('/index(.*)', 'index')
 class index:  
     def GET(self, data):
         data = []
-        temp = []
-        
         with open("Proyecciones_hogares_indigenas.csv", "r") as file_open:
             dat = csv.reader(file_open, delimiter=",")
             for row in dat:

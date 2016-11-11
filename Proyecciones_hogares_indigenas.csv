@@ -26,26 +26,26 @@
 26,2010,Hidalgo,13,13,Femenina,24076.29478
 27,2010,Jalisco,14,14,Masculina,15979.87525
 28,2010,Jalisco,14,14,Femenina,3350.519493
-29,2010,México,15,15,Masculina,161331.0766
-30,2010,México,15,15,Femenina,41680.73365
-31,2010,Michoacán,16,16,Masculina,37087.96463
-32,2010,Michoacán,16,16,Femenina,8918.831928
+29,2010,Mexico,15,15,Masculina,161331.0766
+30,2010,Mexico,15,15,Femenina,41680.73365
+31,2010,Michoacan,16,16,Masculina,37087.96463
+32,2010,Michoacan,16,16,Femenina,8918.831928
 33,2010,Morelos,17,17,Masculina,11853.58609
 34,2010,Morelos,17,17,Femenina,3283.591694
 35,2010,Nayarit,18,18,Masculina,11548.3474
 36,2010,Nayarit,18,18,Femenina,2505.789611
-37,2010,Nuevo León,19,19,Masculina,16687.70858
-38,2010,Nuevo León,19,19,Femenina,1943.990188
+37,2010,Nuevo Leon,19,19,Masculina,16687.70858
+38,2010,Nuevo Leon,19,19,Femenina,1943.990188
 39,2010,Oaxaca,20,20,Masculina,309667.7093
 40,2010,Oaxaca,20,20,Femenina,91025.87625
 41,2010,Puebla,21,21,Masculina,172033.6811
 42,2010,Puebla,21,21,Femenina,50204.07597
-43,2010,Querétaro,22,22,Masculina,9212.921273
-44,2010,Querétaro,22,22,Femenina,2488.553528
+43,2010,Queretaro,22,22,Masculina,9212.921273
+44,2010,Queretaro,22,22,Femenina,2488.553528
 45,2010,Quintana Roo,23,23,Masculina,80077.87296
 46,2010,Quintana Roo,23,23,Femenina,15416.05058
-47,2010,San Luis Potosí,24,24,Masculina,67838.94051
-48,2010,San Luis Potosí,24,24,Femenina,11456.06373
+47,2010,San Luis Potosi,24,24,Masculina,67838.94051
+48,2010,San Luis Potosi,24,24,Femenina,11456.06373
 49,2010,Sinaloa,25,25,Masculina,9537.425737
 50,2010,Sinaloa,25,25,Femenina,2107.257308
 51,2010,Sonora,26,26,Masculina,23411.06225
@@ -58,8 +58,8 @@
 58,2010,Tlaxcala,29,29,Femenina,2640.664433
 59,2010,Veracruz,30,30,Masculina,192910.5542
 60,2010,Veracruz,30,30,Femenina,43902.58042
-61,2010,Yucatán,31,31,Masculina,190663.355
-62,2010,Yucatán,31,31,Femenina,41125.01943
+61,2010,Yucatan,31,31,Masculina,190663.355
+62,2010,Yucatan,31,31,Femenina,41125.01943
 63,2010,Zacatecas,32,32,Masculina,1875.03483
 64,2010,Zacatecas,32,32,Femenina,298.1396647
 65,2011,Aguascalientes,1,1,Masculina,1204.936863
@@ -90,26 +90,26 @@
 90,2011,Hidalgo,13,13,Femenina,24908.37771
 91,2011,Jalisco,14,14,Masculina,16214.05744
 92,2011,Jalisco,14,14,Femenina,3445.674023
-93,2011,México,15,15,Masculina,165441.4412
-94,2011,México,15,15,Femenina,43449.57262
-95,2011,Michoacán,16,16,Masculina,37576.44713
-96,2011,Michoacán,16,16,Femenina,9161.276497
+93,2011,Mexico,15,15,Masculina,165441.4412
+94,2011,Mexico,15,15,Femenina,43449.57262
+95,2011,Michoacan,16,16,Masculina,37576.44713
+96,2011,Michoacan,16,16,Femenina,9161.276497
 97,2011,Morelos,17,17,Masculina,12060.14258
 98,2011,Morelos,17,17,Femenina,3386.946202
 99,2011,Nayarit,18,18,Masculina,11807.92071
 100,2011,Nayarit,18,18,Femenina,2593.470826
-101,2011,Nuevo León,19,19,Masculina,16778.39349
-102,2011,Nuevo León,19,19,Femenina,2000.297824
+101,2011,Nuevo Leon,19,19,Masculina,16778.39349
+102,2011,Nuevo Leon,19,19,Femenina,2000.297824
 103,2011,Oaxaca,20,20,Masculina,312957.116
 104,2011,Oaxaca,20,20,Femenina,93264.28665
 105,2011,Puebla,21,21,Masculina,174930.5061
 106,2011,Puebla,21,21,Femenina,51774.28676
-107,2011,Querétaro,22,22,Masculina,9442.859493
-108,2011,Querétaro,22,22,Femenina,2588.558438
+107,2011,Queretaro,22,22,Masculina,9442.859493
+108,2011,Queretaro,22,22,Femenina,2588.558438
 109,2011,Quintana Roo,23,23,Masculina,83631.65314
 110,2011,Quintana Roo,23,23,Femenina,16353.09817
-111,2011,San Luis Potosí,24,24,Masculina,68938.64045
-112,2011,San Luis Potosí,24,24,Femenina,11793.65105
+111,2011,San Luis Potosi,24,24,Masculina,68938.64045
+112,2011,San Luis Potosi,24,24,Femenina,11793.65105
 113,2011,Sinaloa,25,25,Masculina,9698.33165
 114,2011,Sinaloa,25,25,Femenina,2176.083744
 115,2011,Sonora,26,26,Masculina,23974.97012
@@ -122,8 +122,8 @@
 122,2011,Tlaxcala,29,29,Femenina,2737.19751
 123,2011,Veracruz,30,30,Masculina,195966.9726
 124,2011,Veracruz,30,30,Femenina,45158.6748
-125,2011,Yucatán,31,31,Masculina,194591.0134
-126,2011,Yucatán,31,31,Femenina,42541.14852
+125,2011,Yucatan,31,31,Masculina,194591.0134
+126,2011,Yucatan,31,31,Femenina,42541.14852
 127,2011,Zacatecas,32,32,Masculina,1893.651087
 128,2011,Zacatecas,32,32,Femenina,306.065175
 129,2012,Aguascalientes,1,1,Masculina,1231.376479
@@ -154,26 +154,26 @@
 154,2012,Hidalgo,13,13,Femenina,25766.52474
 155,2012,Jalisco,14,14,Masculina,16447.37607
 156,2012,Jalisco,14,14,Femenina,3542.234868
-157,2012,México,15,15,Masculina,169502.1219
-158,2012,México,15,15,Femenina,45271.83871
-159,2012,Michoacán,16,16,Masculina,38069.08893
-160,2012,Michoacán,16,16,Femenina,9411.731648
+157,2012,Mexico,15,15,Masculina,169502.1219
+158,2012,Mexico,15,15,Femenina,45271.83871
+159,2012,Michoacan,16,16,Masculina,38069.08893
+160,2012,Michoacan,16,16,Femenina,9411.731648
 161,2012,Morelos,17,17,Masculina,12271.93951
 162,2012,Morelos,17,17,Femenina,3492.949812
 163,2012,Nayarit,18,18,Masculina,12062.9032
 164,2012,Nayarit,18,18,Femenina,2682.586558
-165,2012,Nuevo León,19,19,Masculina,16849.30935
-166,2012,Nuevo León,19,19,Femenina,2057.3953
+165,2012,Nuevo Leon,19,19,Masculina,16849.30935
+166,2012,Nuevo Leon,19,19,Femenina,2057.3953
 167,2012,Oaxaca,20,20,Masculina,316175.1666
 168,2012,Oaxaca,20,20,Femenina,95547.83774
 169,2012,Puebla,21,21,Masculina,177818.6309
 170,2012,Puebla,21,21,Femenina,53387.98419
-171,2012,Querétaro,22,22,Masculina,9671.247144
-172,2012,Querétaro,22,22,Femenina,2692.048175
+171,2012,Queretaro,22,22,Masculina,9671.247144
+172,2012,Queretaro,22,22,Femenina,2692.048175
 173,2012,Quintana Roo,23,23,Masculina,87213.68375
 174,2012,Quintana Roo,23,23,Femenina,17322.41467
-175,2012,San Luis Potosí,24,24,Masculina,69997.26863
-176,2012,San Luis Potosí,24,24,Femenina,12140.23913
+175,2012,San Luis Potosi,24,24,Masculina,69997.26863
+176,2012,San Luis Potosi,24,24,Femenina,12140.23913
 177,2012,Sinaloa,25,25,Masculina,9858.219969
 178,2012,Sinaloa,25,25,Femenina,2246.760492
 179,2012,Sonora,26,26,Masculina,24551.33566
@@ -186,8 +186,8 @@
 186,2012,Tlaxcala,29,29,Femenina,2837.24235
 187,2012,Veracruz,30,30,Masculina,198729.9832
 188,2012,Veracruz,30,30,Femenina,46436.62114
-189,2012,Yucatán,31,31,Masculina,198464.4945
-190,2012,Yucatán,31,31,Femenina,43995.38257
+189,2012,Yucatan,31,31,Masculina,198464.4945
+190,2012,Yucatan,31,31,Femenina,43995.38257
 191,2012,Zacatecas,32,32,Masculina,1912.906422
 192,2012,Zacatecas,32,32,Femenina,314.1294522
 193,2013,Aguascalientes,1,1,Masculina,1257.410028
@@ -218,26 +218,26 @@
 218,2013,Hidalgo,13,13,Femenina,26648.08015
 219,2013,Jalisco,14,14,Masculina,16669.40555
 220,2013,Jalisco,14,14,Femenina,3639.465593
-221,2013,México,15,15,Masculina,173558.0655
-222,2013,México,15,15,Femenina,47142.95805
-223,2013,Michoacán,16,16,Masculina,38548.83156
-224,2013,Michoacán,16,16,Femenina,9666.928798
+221,2013,Mexico,15,15,Masculina,173558.0655
+222,2013,Mexico,15,15,Femenina,47142.95805
+223,2013,Michoacan,16,16,Masculina,38548.83156
+224,2013,Michoacan,16,16,Femenina,9666.928798
 225,2013,Morelos,17,17,Masculina,12482.81138
 226,2013,Morelos,17,17,Femenina,3600.684743
 227,2013,Nayarit,18,18,Masculina,12311.89443
 228,2013,Nayarit,18,18,Femenina,2773.089212
-229,2013,Nuevo León,19,19,Masculina,16925.04925
-230,2013,Nuevo León,19,19,Femenina,2115.021903
+229,2013,Nuevo Leon,19,19,Masculina,16925.04925
+230,2013,Nuevo Leon,19,19,Femenina,2115.021903
 231,2013,Oaxaca,20,20,Masculina,319311.9673
 232,2013,Oaxaca,20,20,Femenina,97867.73344
 233,2013,Puebla,21,21,Masculina,180701.0439
 234,2013,Puebla,21,21,Femenina,55041.39362
-235,2013,Querétaro,22,22,Masculina,9897.243008
-236,2013,Querétaro,22,22,Femenina,2798.670233
+235,2013,Queretaro,22,22,Masculina,9897.243008
+236,2013,Queretaro,22,22,Femenina,2798.670233
 237,2013,Quintana Roo,23,23,Masculina,90817.99077
 238,2013,Quintana Roo,23,23,Femenina,18325.5104
-239,2013,San Luis Potosí,24,24,Masculina,71052.04635
-240,2013,San Luis Potosí,24,24,Femenina,12494.18005
+239,2013,San Luis Potosi,24,24,Masculina,71052.04635
+240,2013,San Luis Potosi,24,24,Femenina,12494.18005
 241,2013,Sinaloa,25,25,Masculina,10015.67546
 242,2013,Sinaloa,25,25,Femenina,2318.796716
 243,2013,Sonora,26,26,Masculina,25131.35343
@@ -250,8 +250,8 @@
 250,2013,Tlaxcala,29,29,Femenina,2940.749733
 251,2013,Veracruz,30,30,Masculina,201468.4091
 252,2013,Veracruz,30,30,Femenina,47736.40997
-253,2013,Yucatán,31,31,Masculina,202352.3001
-254,2013,Yucatán,31,31,Femenina,45486.60854
+253,2013,Yucatan,31,31,Masculina,202352.3001
+254,2013,Yucatan,31,31,Femenina,45486.60854
 255,2013,Zacatecas,32,32,Masculina,1931.65501
 256,2013,Zacatecas,32,32,Femenina,322.1932343
 257,2014,Aguascalientes,1,1,Masculina,1283.096684
@@ -282,26 +282,26 @@
 282,2014,Hidalgo,13,13,Femenina,27552.65757
 283,2014,Jalisco,14,14,Masculina,16880.88894
 284,2014,Jalisco,14,14,Femenina,3737.247277
-285,2014,México,15,15,Masculina,177609.5445
-286,2014,México,15,15,Femenina,49063.3171
-287,2014,Michoacán,16,16,Masculina,39017.64528
-288,2014,Michoacán,16,16,Femenina,9926.540642
+285,2014,Mexico,15,15,Masculina,177609.5445
+286,2014,Mexico,15,15,Femenina,49063.3171
+287,2014,Michoacan,16,16,Masculina,39017.64528
+288,2014,Michoacan,16,16,Femenina,9926.540642
 289,2014,Morelos,17,17,Masculina,12693.22062
 290,2014,Morelos,17,17,Femenina,3709.926768
 291,2014,Nayarit,18,18,Masculina,12557.61733
 292,2014,Nayarit,18,18,Femenina,2865.034025
-293,2014,Nuevo León,19,19,Masculina,17004.98106
-294,2014,Nuevo León,19,19,Femenina,2173.261819
+293,2014,Nuevo Leon,19,19,Masculina,17004.98106
+294,2014,Nuevo Leon,19,19,Femenina,2173.261819
 295,2014,Oaxaca,20,20,Masculina,322460.9547
 296,2014,Oaxaca,20,20,Femenina,100228.1285
 297,2014,Puebla,21,21,Masculina,183619.191
 298,2014,Puebla,21,21,Femenina,56735.4071
-299,2014,Querétaro,22,22,Masculina,10121.09013
-300,2014,Querétaro,22,22,Femenina,2908.293999
+299,2014,Queretaro,22,22,Masculina,10121.09013
+300,2014,Queretaro,22,22,Femenina,2908.293999
 301,2014,Quintana Roo,23,23,Masculina,94441.92416
 302,2014,Quintana Roo,23,23,Femenina,19362.33525
-303,2014,San Luis Potosí,24,24,Masculina,72116.25448
-304,2014,San Luis Potosí,24,24,Femenina,12856.10764
+303,2014,San Luis Potosi,24,24,Masculina,72116.25448
+304,2014,San Luis Potosi,24,24,Femenina,12856.10764
 305,2014,Sinaloa,25,25,Masculina,10173.39774
 306,2014,Sinaloa,25,25,Femenina,2392.253594
 307,2014,Sonora,26,26,Masculina,25714.7835
@@ -314,8 +314,8 @@
 314,2014,Tlaxcala,29,29,Femenina,3047.761267
 315,2014,Veracruz,30,30,Masculina,204203.2212
 316,2014,Veracruz,30,30,Femenina,49058.5351
-317,2014,Yucatán,31,31,Masculina,206261.6076
-318,2014,Yucatán,31,31,Femenina,47015.08443
+317,2014,Yucatan,31,31,Masculina,206261.6076
+318,2014,Yucatan,31,31,Femenina,47015.08443
 319,2014,Zacatecas,32,32,Masculina,1950.141194
 320,2014,Zacatecas,32,32,Femenina,330.2929562
 321,2015,Aguascalientes,1,1,Masculina,1308.434603
@@ -346,26 +346,26 @@
 346,2015,Hidalgo,13,13,Femenina,28479.15317
 347,2015,Jalisco,14,14,Masculina,17080.6648
 348,2015,Jalisco,14,14,Femenina,3835.388019
-349,2015,México,15,15,Masculina,181648.0604
-350,2015,México,15,15,Femenina,51031.70301
-351,2015,Michoacán,16,16,Masculina,39473.51289
-352,2015,Michoacán,16,16,Femenina,10190.28712
+349,2015,Mexico,15,15,Masculina,181648.0604
+350,2015,Mexico,15,15,Femenina,51031.70301
+351,2015,Michoacan,16,16,Masculina,39473.51289
+352,2015,Michoacan,16,16,Femenina,10190.28712
 353,2015,Morelos,17,17,Masculina,12901.11337
 354,2015,Morelos,17,17,Femenina,3820.407709
 355,2015,Nayarit,18,18,Masculina,12799.61497
 356,2015,Nayarit,18,18,Femenina,2958.399935
-357,2015,Nuevo León,19,19,Masculina,17087.22868
-358,2015,Nuevo León,19,19,Femenina,2232.221622
+357,2015,Nuevo Leon,19,19,Masculina,17087.22868
+358,2015,Nuevo Leon,19,19,Femenina,2232.221622
 359,2015,Oaxaca,20,20,Masculina,325651.6829
 360,2015,Oaxaca,20,20,Femenina,102625.7191
 361,2015,Puebla,21,21,Masculina,186550.3714
 362,2015,Puebla,21,21,Femenina,58463.91232
-363,2015,Querétaro,22,22,Masculina,10342.79188
-364,2015,Querétaro,22,22,Femenina,3020.828416
+363,2015,Queretaro,22,22,Masculina,10342.79188
+364,2015,Queretaro,22,22,Femenina,3020.828416
 365,2015,Quintana Roo,23,23,Masculina,98081.65275
 366,2015,Quintana Roo,23,23,Femenina,20432.60007
-367,2015,San Luis Potosí,24,24,Masculina,73185.63637
-368,2015,San Luis Potosí,24,24,Femenina,13225.69785
+367,2015,San Luis Potosi,24,24,Masculina,73185.63637
+368,2015,San Luis Potosi,24,24,Femenina,13225.69785
 369,2015,Sinaloa,25,25,Masculina,10330.85623
 370,2015,Sinaloa,25,25,Femenina,2467.062773
 371,2015,Sonora,26,26,Masculina,26299.27157
@@ -378,8 +378,8 @@
 378,2015,Tlaxcala,29,29,Femenina,3158.191945
 379,2015,Veracruz,30,30,Masculina,206920.3101
 380,2015,Veracruz,30,30,Femenina,50401.12488
-381,2015,Yucatán,31,31,Masculina,210193.2938
-382,2015,Yucatán,31,31,Femenina,48580.28874
+381,2015,Yucatan,31,31,Masculina,210193.2938
+382,2015,Yucatan,31,31,Femenina,48580.28874
 383,2015,Zacatecas,32,32,Masculina,1968.297852
 384,2015,Zacatecas,32,32,Femenina,338.4320229
 385,2016,Aguascalientes,1,1,Masculina,1333.394708
@@ -410,26 +410,26 @@
 410,2016,Hidalgo,13,13,Femenina,29426.66169
 411,2016,Jalisco,14,14,Masculina,17266.17513
 412,2016,Jalisco,14,14,Femenina,3933.777254
-413,2016,México,15,15,Masculina,185669.7016
-414,2016,México,15,15,Femenina,53047.44638
-415,2016,Michoacán,16,16,Masculina,39912.58423
-416,2016,Michoacán,16,16,Femenina,10457.98946
+413,2016,Mexico,15,15,Masculina,185669.7016
+414,2016,Mexico,15,15,Femenina,53047.44638
+415,2016,Michoacan,16,16,Masculina,39912.58423
+416,2016,Michoacan,16,16,Femenina,10457.98946
 417,2016,Morelos,17,17,Masculina,13105.04482
 418,2016,Morelos,17,17,Femenina,3932.044487
 419,2016,Nayarit,18,18,Masculina,13036.54812
 420,2016,Nayarit,18,18,Femenina,3053.025483
-421,2016,Nuevo León,19,19,Masculina,17169.24068
-422,2016,Nuevo León,19,19,Femenina,2291.655435
+421,2016,Nuevo Leon,19,19,Masculina,17169.24068
+422,2016,Nuevo Leon,19,19,Femenina,2291.655435
 423,2016,Oaxaca,20,20,Masculina,328845.188
 424,2016,Oaxaca,20,20,Femenina,105052.7216
 425,2016,Puebla,21,21,Masculina,189453.2544
 426,2016,Puebla,21,21,Femenina,60220.7777
-427,2016,Querétaro,22,22,Masculina,10562.0598
-428,2016,Querétaro,22,22,Femenina,3136.219217
+427,2016,Queretaro,22,22,Masculina,10562.0598
+428,2016,Queretaro,22,22,Femenina,3136.219217
 429,2016,Quintana Roo,23,23,Masculina,101733.2078
 430,2016,Quintana Roo,23,23,Femenina,21536.05468
-431,2016,San Luis Potosí,24,24,Masculina,74251.20252
-432,2016,San Luis Potosí,24,24,Femenina,13602.20492
+431,2016,San Luis Potosi,24,24,Masculina,74251.20252
+432,2016,San Luis Potosi,24,24,Femenina,13602.20492
 433,2016,Sinaloa,25,25,Masculina,10488.31767
 434,2016,Sinaloa,25,25,Femenina,2543.215684
 435,2016,Sonora,26,26,Masculina,26884.41661
@@ -442,8 +442,8 @@
 442,2016,Tlaxcala,29,29,Femenina,3272.057316
 443,2016,Veracruz,30,30,Masculina,209583.1012
 444,2016,Veracruz,30,30,Femenina,51761.27586
-445,2016,Yucatán,31,31,Masculina,214132.1251
-446,2016,Yucatán,31,31,Femenina,50182.02377
+445,2016,Yucatan,31,31,Masculina,214132.1251
+446,2016,Yucatan,31,31,Femenina,50182.02377
 447,2016,Zacatecas,32,32,Masculina,1985.763253
 448,2016,Zacatecas,32,32,Femenina,346.5777499
 449,2017,Aguascalientes,1,1,Masculina,1357.941394
@@ -474,26 +474,26 @@
 474,2017,Hidalgo,13,13,Femenina,30395.80269
 475,2017,Jalisco,14,14,Masculina,17437.84975
 476,2017,Jalisco,14,14,Femenina,4032.334642
-477,2017,México,15,15,Masculina,189661.3348
-478,2017,México,15,15,Femenina,55111.0038
-479,2017,Michoacán,16,16,Masculina,40333.61308
-480,2017,Michoacán,16,16,Femenina,10729.34803
+477,2017,Mexico,15,15,Masculina,189661.3348
+478,2017,Mexico,15,15,Femenina,55111.0038
+479,2017,Michoacan,16,16,Masculina,40333.61308
+480,2017,Michoacan,16,16,Femenina,10729.34803
 481,2017,Morelos,17,17,Masculina,13306.55109
 482,2017,Morelos,17,17,Femenina,4045.059956
 483,2017,Nayarit,18,18,Masculina,13267.98666
 484,2017,Nayarit,18,18,Femenina,3148.791244
-485,2017,Nuevo León,19,19,Masculina,17250.47408
-486,2017,Nuevo León,19,19,Femenina,2351.474451
+485,2017,Nuevo Leon,19,19,Masculina,17250.47408
+486,2017,Nuevo Leon,19,19,Femenina,2351.474451
 487,2017,Oaxaca,20,20,Masculina,331981.5042
 488,2017,Oaxaca,20,20,Femenina,107505.4968
 489,2017,Puebla,21,21,Masculina,192336.0658
 490,2017,Puebla,21,21,Femenina,62009.70928
-491,2017,Querétaro,22,22,Masculina,10778.2171
-492,2017,Querétaro,22,22,Femenina,3254.422847
+491,2017,Queretaro,22,22,Masculina,10778.2171
+492,2017,Queretaro,22,22,Femenina,3254.422847
 493,2017,Quintana Roo,23,23,Masculina,105393.4855
 494,2017,Quintana Roo,23,23,Femenina,22672.80948
-495,2017,San Luis Potosí,24,24,Masculina,75309.94388
-496,2017,San Luis Potosí,24,24,Femenina,13985.18162
+495,2017,San Luis Potosi,24,24,Masculina,75309.94388
+496,2017,San Luis Potosi,24,24,Femenina,13985.18162
 497,2017,Sinaloa,25,25,Masculina,10645.42145
 498,2017,Sinaloa,25,25,Femenina,2620.72312
 499,2017,Sonora,26,26,Masculina,27471.43989
@@ -506,8 +506,8 @@
 506,2017,Tlaxcala,29,29,Femenina,3389.602666
 507,2017,Veracruz,30,30,Masculina,212176.6251
 508,2017,Veracruz,30,30,Femenina,53137.80261
-509,2017,Yucatán,31,31,Masculina,218045.2091
-510,2017,Yucatán,31,31,Femenina,51818.77911
+509,2017,Yucatan,31,31,Masculina,218045.2091
+510,2017,Yucatan,31,31,Femenina,51818.77911
 511,2017,Zacatecas,32,32,Masculina,2002.218261
 512,2017,Zacatecas,32,32,Femenina,354.7048429
 513,2018,Aguascalientes,1,1,Masculina,1382.090037
@@ -538,26 +538,26 @@
 538,2018,Hidalgo,13,13,Femenina,31388.16408
 539,2018,Jalisco,14,14,Masculina,17599.00292
 540,2018,Jalisco,14,14,Femenina,4131.017915
-541,2018,México,15,15,Masculina,193606.8074
-542,2018,México,15,15,Femenina,57220.31617
-543,2018,Michoacán,16,16,Masculina,40741.02785
-544,2018,Michoacán,16,16,Femenina,11004.59363
+541,2018,Mexico,15,15,Masculina,193606.8074
+542,2018,Mexico,15,15,Femenina,57220.31617
+543,2018,Michoacan,16,16,Masculina,40741.02785
+544,2018,Michoacan,16,16,Femenina,11004.59363
 545,2018,Morelos,17,17,Masculina,13505.9734
 546,2018,Morelos,17,17,Femenina,4159.532743
 547,2018,Nayarit,18,18,Masculina,13492.92228
 548,2018,Nayarit,18,18,Femenina,3245.670564
-549,2018,Nuevo León,19,19,Masculina,17328.65693
-550,2018,Nuevo León,19,19,Femenina,2411.671956
+549,2018,Nuevo Leon,19,19,Masculina,17328.65693
+550,2018,Nuevo Leon,19,19,Femenina,2411.671956
 551,2018,Oaxaca,20,20,Masculina,335061.1696
 552,2018,Oaxaca,20,20,Femenina,109989.7938
 553,2018,Puebla,21,21,Masculina,195232.6565
 554,2018,Puebla,21,21,Femenina,63837.24813
-555,2018,Querétaro,22,22,Masculina,10991.4663
-556,2018,Querétaro,22,22,Femenina,3375.429524
+555,2018,Queretaro,22,22,Masculina,10991.4663
+556,2018,Queretaro,22,22,Femenina,3375.429524
 557,2018,Quintana Roo,23,23,Masculina,109059.5507
 558,2018,Quintana Roo,23,23,Femenina,23843.0375
-559,2018,San Luis Potosí,24,24,Masculina,76362.4161
-560,2018,San Luis Potosí,24,24,Femenina,14375.14599
+559,2018,San Luis Potosi,24,24,Masculina,76362.4161
+560,2018,San Luis Potosi,24,24,Femenina,14375.14599
 561,2018,Sinaloa,25,25,Masculina,10801.51238
 562,2018,Sinaloa,25,25,Femenina,2699.615948
 563,2018,Sonora,26,26,Masculina,28059.50758
@@ -570,8 +570,8 @@
 570,2018,Tlaxcala,29,29,Femenina,3511.081945
 571,2018,Veracruz,30,30,Masculina,214724.7504
 572,2018,Veracruz,30,30,Femenina,54533.12922
-573,2018,Yucatán,31,31,Masculina,221941.0409
-574,2018,Yucatán,31,31,Femenina,53490.79602
+573,2018,Yucatan,31,31,Masculina,221941.0409
+574,2018,Yucatan,31,31,Femenina,53490.79602
 575,2018,Zacatecas,32,32,Masculina,2017.691159
 576,2018,Zacatecas,32,32,Femenina,362.8277827
 577,2019,Aguascalientes,1,1,Masculina,1405.833969
@@ -602,26 +602,26 @@
 602,2019,Hidalgo,13,13,Femenina,32405.12552
 603,2019,Jalisco,14,14,Masculina,17750.26987
 604,2019,Jalisco,14,14,Femenina,4229.743038
-605,2019,México,15,15,Masculina,197518.2823
-606,2019,México,15,15,Femenina,59375.15885
-607,2019,Michoacán,16,16,Masculina,41138.32824
-608,2019,Michoacán,16,16,Femenina,11284.13062
+605,2019,Mexico,15,15,Masculina,197518.2823
+606,2019,Mexico,15,15,Femenina,59375.15885
+607,2019,Michoacan,16,16,Masculina,41138.32824
+608,2019,Michoacan,16,16,Femenina,11284.13062
 609,2019,Morelos,17,17,Masculina,13703.22056
 610,2019,Morelos,17,17,Femenina,4275.537815
 611,2019,Nayarit,18,18,Masculina,13711.4693
 612,2019,Nayarit,18,18,Femenina,3343.778659
-613,2019,Nuevo León,19,19,Masculina,17403.48892
-614,2019,Nuevo León,19,19,Femenina,2472.187732
+613,2019,Nuevo Leon,19,19,Masculina,17403.48892
+614,2019,Nuevo Leon,19,19,Femenina,2472.187732
 615,2019,Oaxaca,20,20,Masculina,338152.2842
 616,2019,Oaxaca,20,20,Femenina,112512.8045
 617,2019,Puebla,21,21,Masculina,198159.9658
 618,2019,Puebla,21,21,Femenina,65704.86188
-619,2019,Querétaro,22,22,Masculina,11202.71546
-620,2019,Querétaro,22,22,Femenina,3499.199338
+619,2019,Queretaro,22,22,Masculina,11202.71546
+620,2019,Queretaro,22,22,Femenina,3499.199338
 621,2019,Quintana Roo,23,23,Masculina,112727.6388
 622,2019,Quintana Roo,23,23,Femenina,25046.42207
-623,2019,San Luis Potosí,24,24,Masculina,77407.21388
-624,2019,San Luis Potosí,24,24,Femenina,14772.77808
+623,2019,San Luis Potosi,24,24,Masculina,77407.21388
+624,2019,San Luis Potosi,24,24,Femenina,14772.77808
 625,2019,Sinaloa,25,25,Masculina,10956.58565
 626,2019,Sinaloa,25,25,Femenina,2779.867802
 627,2019,Sonora,26,26,Masculina,28647.76334
@@ -634,8 +634,8 @@
 634,2019,Tlaxcala,29,29,Femenina,3636.489904
 635,2019,Veracruz,30,30,Masculina,217244.9446
 636,2019,Veracruz,30,30,Femenina,55947.99179
-637,2019,Yucatán,31,31,Masculina,225847.926
-638,2019,Yucatán,31,31,Femenina,55198.97362
+637,2019,Yucatan,31,31,Masculina,225847.926
+638,2019,Yucatan,31,31,Femenina,55198.97362
 639,2019,Zacatecas,32,32,Masculina,2032.278177
 640,2019,Zacatecas,32,32,Femenina,370.9696396
 641,2020,Aguascalientes,1,1,Masculina,1429.047703
@@ -666,26 +666,26 @@
 666,2020,Hidalgo,13,13,Femenina,33445.69974
 667,2020,Jalisco,14,14,Masculina,17890.37977
 668,2020,Jalisco,14,14,Femenina,4328.24205
-669,2020,México,15,15,Masculina,201390.4579
-670,2020,México,15,15,Femenina,61574.72301
-671,2020,Michoacán,16,16,Masculina,41520.46385
-672,2020,Michoacán,16,16,Femenina,11567.72765
+669,2020,Mexico,15,15,Masculina,201390.4579
+670,2020,Mexico,15,15,Femenina,61574.72301
+671,2020,Michoacan,16,16,Masculina,41520.46385
+672,2020,Michoacan,16,16,Femenina,11567.72765
 673,2020,Morelos,17,17,Masculina,13898.34824
 674,2020,Morelos,17,17,Femenina,4392.915356
 675,2020,Nayarit,18,18,Masculina,13923.98024
 676,2020,Nayarit,18,18,Femenina,3443.006398
-677,2020,Nuevo León,19,19,Masculina,17476.90589
-678,2020,Nuevo León,19,19,Femenina,2532.929565
+677,2020,Nuevo Leon,19,19,Masculina,17476.90589
+678,2020,Nuevo Leon,19,19,Femenina,2532.929565
 679,2020,Oaxaca,20,20,Masculina,341234.528
 680,2020,Oaxaca,20,20,Femenina,115069.5441
 681,2020,Puebla,21,21,Masculina,201058.0437
 682,2020,Puebla,21,21,Femenina,67604.16344
-683,2020,Querétaro,22,22,Masculina,11411.05333
-684,2020,Querétaro,22,22,Femenina,3625.639923
+683,2020,Queretaro,22,22,Masculina,11411.05333
+684,2020,Queretaro,22,22,Femenina,3625.639923
 685,2020,Quintana Roo,23,23,Masculina,116393.032
 686,2020,Quintana Roo,23,23,Femenina,26282.03175
-687,2020,San Luis Potosí,24,24,Masculina,78434.46104
-688,2020,San Luis Potosí,24,24,Femenina,15177.70388
+687,2020,San Luis Potosi,24,24,Masculina,78434.46104
+688,2020,San Luis Potosi,24,24,Femenina,15177.70388
 689,2020,Sinaloa,25,25,Masculina,11109.34489
 690,2020,Sinaloa,25,25,Femenina,2861.297075
 691,2020,Sonora,26,26,Masculina,29237.29633
@@ -698,7 +698,7 @@
 698,2020,Tlaxcala,29,29,Femenina,3765.636417
 699,2020,Veracruz,30,30,Masculina,219713.1623
 700,2020,Veracruz,30,30,Femenina,57379.51179
-701,2020,Yucatán,31,31,Masculina,229765.8925
-702,2020,Yucatán,31,31,Femenina,56943.19079
+701,2020,Yucatan,31,31,Masculina,229765.8925
+702,2020,Yucatan,31,31,Femenina,56943.19079
 703,2020,Zacatecas,32,32,Masculina,2045.601285
 704,2020,Zacatecas,32,32,Femenina,379.0868317
